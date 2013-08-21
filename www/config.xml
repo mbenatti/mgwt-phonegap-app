@@ -6,10 +6,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Mgwt phonegap app</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Aplicativo mgwt phonegap.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
